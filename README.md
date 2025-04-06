@@ -3,3 +3,5 @@ Because GitHub does not allow opening links within a PDF directly from the brows
 1) https://github.com/GrigaBit/32BitCPU
 
 2) https://github.com/GrigaBit/SAP1
+
+3) https://github.com/GrigaBit/DSP-Design
