@@ -4,4 +4,4 @@ Because GitHub does not allow opening links within a PDF directly from the brows
 
 2) https://github.com/GrigaBit/SAP1
 
-3) https://github.com/GrigaBit/DSP-Design
+3) https://github.com/GrigaBit/DSP-Design - My latest project , not included in CV.
